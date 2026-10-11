@@ -1,0 +1,335 @@
+================================================================================
+SYNNOTECH INNOVATIONS INC.
+Official Global Employee Handbook & Comprehensive Policy Manual
+================================================================================
+Document Edition   : Version 2026.2 (Global)
+Effective Date     : October 1, 2026
+Issuing Authorities: People Operations & Global IT Infrastructure Group
+Applicability      : All Full-Time, Part-Time, and Contract Personnel
+================================================================================
+
+TABLE OF CONTENTS
+--------------------------------------------------------------------------------
+1. Introduction, Mission & Core Values
+2. Employment Basics & Work Models
+3. Workplace Safety, Health & Harassment Prevention
+4. Professional Code of Conduct & Ethics
+5. Comprehensive Leave & Time-Off Policies
+6. Compensation, Benefits & Professional Growth
+7. IT Assets & Technology Allocation Policy
+8. Damaged Hardware Replacement & Incident Escalation Policy
+9. Progressive Discipline, Resignation & Asset Recovery
+10. Employee Policy Acknowledgement & Sign-off Form
+
+
+================================================================================
+1. INTRODUCTION, MISSION & CORE VALUES
+================================================================================
+
+1.1 Welcome Message
+Welcome to SynnoTech Innovations Inc. We engineer high-performance cloud infrastructure, 
+resilient data pipelines, and intelligent enterprise software. Our success rests on 
+the collective intellect, dedication, and integrity of our team. 
+
+This handbook outlines the principles, mutual expectations, operational standards, 
+and formal policies that govern your journey with SynnoTech. Please review it carefully.
+
+1.2 Our Operating Core Values
+- Autonomous Accountability: We grant broad operational autonomy to our employees 
+  and trust them to deliver exceptional results with ownership and rigor.
+- Integrity and Trust: We interact transparently with customers, teammates, and 
+  partners, maintaining absolute ethical discipline.
+- Continuous Innovation: We encourage bold ideas, calculated technical risk-taking, 
+  and ongoing refinement of systems and skills.
+- Radical Inclusivity: Varied viewpoints lead to superior software. We champion 
+  a supportive, diverse, and respectful workplace for every individual.
+
+
+================================================================================
+2. EMPLOYMENT BASICS & WORK MODELS
+================================================================================
+
+2.1 Employment Classifications
+- Full-Time Regular Employees: Individuals contracted to work at least 35 hours per 
+  week on an indefinite basis. Fully eligible for corporate benefits, equity schemes, 
+  and annual leave programs.
+- Part-Time Regular Employees: Individuals scheduled for fewer than 30 hours per week. 
+  Entitled to prorated statutory benefits and leave accruals.
+- Independent Contractors & Temporary Staff: Specialized personnel engaged under 
+  Statement of Work (SOW) agreements. Commercial terms, deliverables, and asset 
+  allocations are established via vendor contract.
+
+2.2 Equal Employment Opportunity (EEO)
+SynnoTech provides equal employment opportunities to all team members and applicants 
+without regard to race, color, ancestry, national origin, religion, sex, sexual 
+orientation, gender identity or expression, age, disability, or veteran status.
+
+2.3 Hybrid & Remote Work Expectations
+SynnoTech operates under a flexible, hybrid-first posture. Team members are expected to:
+- Maintain an ergonomic, quiet, and secure dedicated workspace.
+- Adhere to core collaboration hours (10:00 AM to 4:00 PM local time).
+- Stay reachable via primary communication channels (Slack, Jira, and Email).
+- Protect client and company data from unauthorized visual or digital access.
+
+
+================================================================================
+3. WORKPLACE SAFETY, HEALTH & HARASSMENT PREVENTION
+================================================================================
+
+3.1 Harassment & Non-Discrimination Policy
+SynnoTech strictly enforces a zero-tolerance policy against sexual harassment, verbal 
+hostility, physical intimidation, discriminatory slurs, bullying, or retaliatory actions. 
+Violations lead to disciplinary intervention up to immediate summary dismissal.
+
+Reporting Channels:
+Concerns may be submitted directly to your direct manager, People Operations, or 
+anonymously via our 24/7 whistleblower intake portal (compliance@synnotech.internal).
+
+3.2 Workplace Safety & Ergonomics
+Employees must adhere to safety compliance rules in physical corporate facilities, keep 
+emergency fire pathways clear, and report any environmental hazards immediately. Remote 
+employees may request ergonomic workstation assessments through People Operations.
+
+3.3 Drug and Alcohol-Free Workplace
+Consumption, possession, or distribution of illegal narcotics, or working while 
+impaired by alcohol or controlled substances during business hours, is strictly prohibited.
+
+
+================================================================================
+4. PROFESSIONAL CODE OF CONDUCT & ETHICS
+================================================================================
+
+4.1 Confidentiality & Non-Disclosure
+Employees encounter proprietary technology, source code, unreleased features, customer 
+records, and financial metrics. All non-public information is confidential and must not 
+be communicated externally without written authorization from Corporate Legal.
+
+4.2 Intellectual Property Assignment
+All software, scripts, documentation, algorithms, patentable discoveries, and 
+trademarks conceived or developed during your employment with SynnoTech belong solely 
+and exclusively to SynnoTech Innovations Inc.
+
+4.3 Conflicts of Interest & Moonlighting
+Employees must not engage in outside consulting, external commercial engagements, or 
+advisory roles with competitors, vendors, or entities that interfere with their core 
+duties or create actual or perceived conflicts of interest.
+
+
+================================================================================
+5. COMPREHENSIVE LEAVE & TIME-OFF POLICIES
+================================================================================
+
+SynnoTech recognizes that scheduled rest, family time, personal wellness, and civic 
+duties are essential to long-term performance and well-being.
+
+5.1 Leave Entitlement Matrix
+
+--------------------------------------------------------------------------------
+Leave Type         | Annual Entitlement   | Guidelines & Eligibility
+--------------------------------------------------------------------------------
+Paid Time Off      | 20 Days / Year       | Accrues monthly (1.67 days/mo).
+(Vacation / PTO)   |                      | Requests of 5+ consecutive days require 
+                   |                      | 2 weeks advance manager approval. Up to 
+                   |                      | 5 unused days roll over to next year.
+--------------------------------------------------------------------------------
+Sick & Medical     | 10 Days / Year       | Fully paid. Designated for acute illness, 
+Leave              |                      | injury, or medical appointments. Doctor 
+                   |                      | note required for absences over 3 days.
+--------------------------------------------------------------------------------
+Parental Leave     | Primary: 16 Weeks    | Available after 6 months continuous 
+(Birth/Adoption)   | Secondary: 8 Weeks   | service. 100% paid. Can be taken 
+                   |                      | continuously or in structured blocks 
+                   |                      | within 12 months of arrival.
+--------------------------------------------------------------------------------
+Bereavement        | Up to 5 Days (Immed) | Immediate family: spouse, child, parent, 
+Leave              | Up to 3 Days (Ext)   | sibling. Extended: grandparents, in-laws. 
+                   |                      | Unpaid compassionate leave available.
+--------------------------------------------------------------------------------
+Civic / Jury Duty  | Up to 10 Days Paid   | Full salary continuation upon providing 
+                   |                      | official jury summons documentation.
+--------------------------------------------------------------------------------
+Holidays           | 10 Fixed Holidays    | Covers official statutory holidays plus 
+                   | + 2 Floating Days    | 2 discretionary floating cultural days.
+--------------------------------------------------------------------------------
+
+5.2 Request and Booking Procedures
+- Planned absences must be logged through the SynnoTech HRIS portal.
+- Unplanned sick leave must be communicated to the team lead via email or Slack 
+  no later than 9:00 AM on the day of absence.
+- Unused accrued PTO will be settled in the final paycheck upon departure subject to 
+  applicable local and regional statutory laws.
+
+
+================================================================================
+6. COMPENSATION, BENEFITS & PROFESSIONAL GROWTH
+================================================================================
+
+6.1 Payroll & Overtime
+- Paydays occur bi-weekly on alternate Fridays via electronic bank direct deposit.
+- Non-exempt hourly workers qualify for overtime at 1.5x regular pay rates for hours 
+  worked over 40 hours per week, requiring advance managerial pre-approval.
+
+6.2 Healthcare, Retirement & Employee Perks
+- Comprehensive Medical, Dental, and Vision coverage for full-time employees and 
+  eligible dependents, subsidized heavily by SynnoTech.
+- 401(k) / Pension Plan matching up to 5% of base salary after 90 days of employment.
+- Remote Home Office Setup Stipend: $1,000 one-time initial home office allowance.
+- Professional Learning & Development: $1,500 annual budget for approved technical 
+  certifications, courses, and educational conferences.
+
+
+================================================================================
+7. IT ASSETS & TECHNOLOGY ALLOCATION POLICY
+================================================================================
+
+All computing devices, peripherals, and software licenses issued to team members 
+are the property of SynnoTech Innovations Inc. and are provided strictly for business 
+productivity and authorized administrative activities.
+
+7.1 Role-Based Hardware Allocation Tiers
+
+--------------------------------------------------------------------------------
+Role Tier            | Standard Hardware Provisioning       | Refresh Cycle
+--------------------------------------------------------------------------------
+Tier 1: Engineering  | High-Performance Laptop (64GB/32GB   | 24 Months
+& Systems            | RAM, i9/M3 Max), Dual 4K Displays,   |
+                     | Mechanical Keyboard, YubiKey 5C NFC. |
+--------------------------------------------------------------------------------
+Tier 2: Product &    | Color-Accurate Retina/OLED Display   | 36 Months
+Design               | Laptop (32GB RAM), 4K USB-C Hub      |
+                     | Monitor, Precision Graphic Stylus.   |
+--------------------------------------------------------------------------------
+Tier 3: Operations,  | Corporate Ultrabook (16GB RAM,       | 36 Months
+Sales & People       | Core i7/M3), Noise-Cancelling        |
+                     | Headset, Multi-Port Travel Dock.     |
+--------------------------------------------------------------------------------
+
+7.2 Cybersecurity & Equipment Standards
+- Centralized Mobile Device Management (MDM): All devices are pre-configured with 
+  SynnoTech's MDM software (Jamf/Microsoft Intune). Disabling, bypassing, or removing 
+  MDM agents, profiles, or endpoint security monitors is a severe security violation.
+- Full Disk Encryption: Enterprise-grade encryption (FileVault 2 / BitLocker) is active 
+  by default. Encryption keys are escrowed in the corporate key vault.
+- Multi-Factor Authentication (MFA): Hardware-backed MFA or authenticator apps are 
+  strictly mandatory for logging into all identity providers and cloud services.
+- Prohibited Software: Employees must never install unapproved third-party utilities, 
+  peer-to-peer file sharing platforms, unlicensed software, or cryptocurrency miners.
+- Transit & Storage Security: Laptops must not be left unattended in parked vehicles, 
+  coffee shops, or common hotel areas. Laptops transported in transit must be carried 
+  in padded protective laptop bags.
+
+
+================================================================================
+8. DAMAGED HARDWARE REPLACEMENT & INCIDENT ESCALATION POLICY
+================================================================================
+
+SynnoTech recognizes that hardware malfunctions, accidental spills, and component 
+failures happen during daily work. This section outlines responsibility tiers, reporting 
+protocols, and replacement logistics.
+
+8.1 Damage Classification & Financial Responsibility
+
+--------------------------------------------------------------------------------
+Classification        | Scope & Examples                 | Financial Liability
+--------------------------------------------------------------------------------
+Class 1: Fair Wear &  | Swollen battery, motherboard     | 100% SynnoTech IT
+Tear / Factory Defect | failure, dead display pixels,    | budget. Zero cost to 
+                      | worn keyboard keys over time.    | employee.
+--------------------------------------------------------------------------------
+Class 2: Accidental   | Inadvertent coffee/liquid spill, | Incident 1: Covered 
+Mishap                | accidental desk drop, cracked    | by SynnoTech. Repeat 
+                      | display screen, luggage impact.  | within 12 mos: $100 
+                      |                                  | employee deductible.
+--------------------------------------------------------------------------------
+Class 3: Gross        | Device left in unlocked vehicle, | Employee liable for 
+Negligence            | intentional teardown attempt,    | repair cost or up to 
+                      | unauthorized third-party repair. | 50% depreciated value.
+--------------------------------------------------------------------------------
+Class 4: Unexplained  | Lost in transit or public space  | Police report required 
+Loss or Theft         | without forced entry, theft      | within 48 hours to 
+                      | lacking verifiable documentation.| qualify for corporate 
+                      |                                  | insurance coverage.
+--------------------------------------------------------------------------------
+
+8.2 Step-by-Step Reporting & Hot-Swap Dispatch Workflow
+1. Immediate Safety Containment:
+   If a device overheats, discharges smoke, exhibits a burning smell, or shows a 
+   visibly bulging battery, unplug power immediately and move the device to a 
+   fireproof, well-ventilated area. Do not attempt to reboot.
+2. Submit Incident Ticket:
+   Within 12 hours of an incident, submit a high-priority ticket via the IT Helpdesk 
+   portal or email (it-emergency@synnotech.internal). Provide photos of the damage, 
+   a brief description of what happened, and your confirmed shipping address.
+3. Hot-Swap Replacement Dispatch:
+   IT immediately provisions and ships an equivalent hot-swap workstation preloaded 
+   with corporate security configurations and baseline software images.
+4. Courier Return of Damaged Device:
+   The employee will receive a shock-resistant return container with a prepaid priority 
+   courier label. The damaged machine must be packaged and scanned with the carrier 
+   within three (3) business days of receiving the replacement.
+5. Technical Triage & Inventory Update:
+   SynnoTech IT conducts internal diagnostics, recovers unbacked local files where 
+   technically feasible, updates enterprise asset databases, and closes the ticket.
+
+8.3 Replacement Service Level Agreements (SLAs)
+- Headquarters / On-site Hubs : Walk-up IT desk replacement in under 1 hour.
+- Domestic Remote Personnel   : Next-Business-Day priority air courier dispatch.
+- International Remote Staff  : 48 to 72 hours via DHL Express or FedEx Global.
+
+
+================================================================================
+9. PROGRESSIVE DISCIPLINE, RESIGNATION & ASSET RECOVERY
+================================================================================
+
+9.1 Progressive Discipline Framework
+SynnoTech follows structured corrective steps for non-compliance or performance issues:
+  Step 1: Informal Verbal Counseling
+  Step 2: Formal Written Warning & Performance Improvement Plan (PIP)
+  Step 3: Final Written Reprimand & Final Probation
+  Step 4: Separation / Employment Termination
+The company reserves the right to initiate immediate termination in cases involving 
+gross misconduct, illegal behavior, data breaches, or severe safety violations.
+
+9.2 Resignation Notice Period
+Exempt and salaried personnel are expected to provide at least two (2) weeks advance 
+written notice to their manager and People Operations to facilitate handover.
+
+9.3 Mandatory Asset Return Protocol
+Departing employees must return all SynnoTech-owned property—including laptops, power 
+cables, security keys, monitors, and building access cards—within five (5) business 
+days of their final employment date. IT Logistics sends prepaid, insured return shipping 
+crates directly to remote workers. Failure to return assigned assets may delay final 
+clearances and result in asset recovery procedures.
+
+
+================================================================================
+10. EMPLOYEE POLICY ACKNOWLEDGEMENT & SIGN-OFF FORM
+================================================================================
+
+I confirm that I have received, read, and understand the contents of the SynnoTech 
+Innovations Inc. Global Employee Handbook. 
+
+I agree to comply with all company policies, standards, and procedures, including 
+the Comprehensive Leave Policy (Section 5), the IT Assets & Technology Allocation 
+Policy (Section 7), and the Damaged Hardware Replacement Policy (Section 8). 
+
+I acknowledge that this handbook does not constitute an employment contract and 
+that employment with SynnoTech is at-will (where recognized by applicable law).
+
+Employee Full Legal Name : ____________________________________________________
+
+Employee ID Number       : ____________________________________________________
+
+Department / Team        : ____________________________________________________
+
+Assigned Workstation S/N : ____________________________________________________
+
+Asset Tag Number         : ____________________________________________________
+
+Employee Signature       : ____________________________________________________
+
+Date (MM/DD/YYYY)        : ____________________________________________________
+
+================================================================================
+[END OF SYNNOTECH EMPLOYEE HANDBOOK - VERSION 2026.2]
+================================================================================
