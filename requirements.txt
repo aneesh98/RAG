@@ -1,2 +1,5 @@
 openai
 python-dotenv
+pydantic>=2,<3
+psycopg[binary]
+pgvector
